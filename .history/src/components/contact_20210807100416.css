@@ -1,0 +1,14 @@
+.contact{
+    background-color: tomato;
+    display: flex;
+}
+
+.info{
+    color: white;
+    width: 33.33333%;
+    
+    background-color: black;
+}
+.infopart{
+    padding: 3rem;
+}

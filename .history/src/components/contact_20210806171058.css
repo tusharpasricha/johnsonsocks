@@ -1,0 +1,16 @@
+.contact{
+    background-color: tomato;
+}
+.form{
+    width: 35%;
+    background-color: white;
+}
+.info{
+    color: white;
+    width: 25%;
+    
+    background-color: black;
+}
+.infopart{
+    padding: 3rem;
+}

@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+.getintouch h2{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Russo One', sans-serif;
+    color: #000;
+    font-size: 28px;
+}
+
+form {
+    /* border: 2px solid coral; */
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background:  #eaeaea;
+    border-radius: 5px;
+    font-family: 'Roboto Mono', monospace;
+    border-color: #d0d0d0;
+    color: #000;
+}
+
+form label {
+    margin-bottom: 10px;
+}
+
+form input {
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    background: #fff;
+    color: #000;
+}
+
+form textarea {
+    margin-bottom: 30px;
+    background: #fff;
+}
+
+
+form button {
+    padding: 20px 10px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    background-color: #ea4c89;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+form button:hover{
+    color: black;
+    background-color: white;
+}
+
+@media only screen and (max-width: 1224px) {
+    form {
+        width: 90%;
+    } 
+}

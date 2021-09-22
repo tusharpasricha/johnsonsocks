@@ -1,0 +1,30 @@
+html {
+        
+    font-size: 60%; 
+    
+}
+.contact{
+    background-color: tomato;
+    display: flex;
+}
+
+.info{
+    color: white;
+    width: 33.33333%;
+    
+    background-color: black;
+}
+.infopart{
+    padding: 3rem;
+}
+@media  (max-width: 400px) {
+    .contact{
+        display: flex;
+        flex-direction: column;
+    }
+
+    html {
+        
+        font-size: 30%; 
+        
+    }}

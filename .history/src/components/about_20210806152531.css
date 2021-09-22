@@ -1,0 +1,8 @@
+.about{
+    text-align: center;
+    font-size: 3rem;
+    background-color: teal;
+}
+table th td{
+    border: 1px solid black
+}

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+.about{
+    background-color: black;
+}
+.aboutbar{
+    text-align: justify;
+    background-color: rgb(255, 255, 255);
+    font-size: 10rem;
+    padding-top: 30rem;
+}
+.abouttable{
+    
+    text-align: center;
+    font-size: 2rem;
+    background-color:white;
+}
+table, th,td{
+    width: 60%;
+    border: 1px solid black;
+    padding: 2rem;
+}
+.aboutpara{
+    text-align: center;
+    font-size: 2rem;
+    padding: 1rem;
+    background-color:white;
+    padding: 13rem;
+}
+.parallel{
+    
+    display: flex;
+    margin: 5rem;
+    border-radius: 1rem;
+}

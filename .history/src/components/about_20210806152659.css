@@ -1,0 +1,9 @@
+.about{
+    text-align: center;
+    font-size: 2rem;
+    background-color: rgb(208, 240, 240);
+}
+table, th,td{
+    border: 1px solid black;
+    padding: 5rem;
+}
