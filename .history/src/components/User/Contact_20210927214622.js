@@ -1,19 +1,19 @@
 import React from "react";
-import emailjs from 'emailjs-com';
+// import emailjs from 'emailjs-com';
 import './Contact.css';
-function sendEmail(e){
-    e.preventDefault();
-    console.log('submited')
-    alert("Thank you for your response")
+// function sendEmail(e){
+//     e.preventDefault();
+//     console.log('submited')
+//     alert("Thank you for your response")
 
-    emailjs.sendForm('service_v5j0w57', 'template_jckj8km', e.target, 'user_RQy2NQAr1UeMOoaw4Cpgi')
-      .then((result) => {
-          console.log(result.text);
-      }, (error) => {
-          console.log(error.text);
-      });
-      e.target.reset()
-}
+//     emailjs.sendForm('service_v5j0w57', 'template_jckj8km', e.target, 'user_RQy2NQAr1UeMOoaw4Cpgi')
+//       .then((result) => {
+//           console.log(result.text);
+//       }, (error) => {
+//           console.log(error.text);
+//       });
+//       e.target.reset()
+// }
 const Contact = () => {
     return (
         <>
@@ -25,8 +25,7 @@ const Contact = () => {
                     <label htmlFor="City">City</label>
                     <input type="text" name="city"/>
                     <label htmlFor="email">E-Mail</label>
-                    <input
-                        type="email" name="email"/>
+                    <input type="email" name="email"/>
                     <label>Contact Details</label>
                     <textarea  rows="7" cols="100"  name="message" ></textarea>
                     <button type="submit">Submit</button>

@@ -58,6 +58,9 @@
     font-size: 30px;
     display: none;
 }
+li :hover{
+    color: rgba(0, 0, 0, 0.938);
+}
 
 @media only screen and (max-width: 1128px) {
 

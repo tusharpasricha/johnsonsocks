@@ -21,7 +21,20 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+<<<<<<< HEAD
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+=======
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
+>>>>>>> c4b8a07 (last commit)
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
   },
   "browserslist": {
     "production": [
