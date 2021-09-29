@@ -1,15 +1,12 @@
 .home{
     height: 600px;
     background-color: thistle;
-    display: flex;
-    align-items: center;
 }
 .home2{
-    height: 100px;
-    background-color: white;
+    height: 600px;
+    background-color: rgb(156, 70, 156);
 }
 .home3{
-    margin-top: 10px;
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 600px;
@@ -23,16 +20,13 @@
 h1{
     padding: 20px;
 }
-.img1{
+.img1 , .img2{
+    
+}
+.img2{
     border-radius: 40px;
     height: 70%;
     width: 65%;
-}
-.img2{
-    margin-left: 30px;
-    border-radius: 40px;
-    height: 85%;
-    width: 50%;
 }
 /* .home {
     display: grid;

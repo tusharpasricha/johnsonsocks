@@ -13,7 +13,7 @@ html {
 .aboutbar{
     font-family: 'Style Script';
     color: white;
-    background-color: #232526;
+    background-color: #ED4264;
     font-size: 10rem;
     width: 40%;
     height: 500px;
@@ -29,7 +29,7 @@ html {
     text-align: center;
     width: 60%;
     font-size: 3rem;
-    background-image: linear-gradient(to right,#232526,#414345);
+    background-image: linear-gradient(to left,#ED4264,#FFEDBC);
     /* background-color:rgb(197, 125, 125); */
     height: 500px;
     /* padding: 30px; */

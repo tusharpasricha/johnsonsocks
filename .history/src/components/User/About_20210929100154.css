@@ -5,7 +5,7 @@ html {
     
 }
 .about{
-    
+    background-color:rgb(77, 3, 3);
     display: flex;
     flex-direction: column; 
     height: 600px;
@@ -13,14 +13,15 @@ html {
 .aboutbar{
     font-family: 'Style Script';
     color: white;
-    background-color: #232526;
+    background-color: #f857a6;
     font-size: 10rem;
     width: 40%;
+    background-color: antiquewhite;
+    
     height: 500px;
     display: flex;
     align-items: center;
     text-align: center;
-    padding-left: 120px;
 }
 
 .aboutpara{
@@ -29,13 +30,12 @@ html {
     text-align: center;
     width: 60%;
     font-size: 3rem;
-    background-image: linear-gradient(to right,#232526,#414345);
+    background-image: linear-gradient(to right,#f857a6,#ff5858);
     /* background-color:rgb(197, 125, 125); */
     height: 500px;
     /* padding: 30px; */
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
-    padding-right: 40px;
 }
 .parallel{
     width: auto;

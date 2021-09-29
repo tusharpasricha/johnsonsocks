@@ -27,7 +27,7 @@ const Home = () => {
     return (
         <>
         <div className="home2">
-           
+            hello
         </div>
         <div className="home">
    

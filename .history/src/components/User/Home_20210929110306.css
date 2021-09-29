@@ -5,8 +5,9 @@
     align-items: center;
 }
 .home2{
-    height: 100px;
-    background-color: white;
+    height: 600px;
+    background-color: rgb(156, 70, 156);
+    background-image: linear-gradient(to right,#EB3349,#F45C43);
 }
 .home3{
     margin-top: 10px;

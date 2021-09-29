@@ -26,9 +26,6 @@ const Home = () => {
 
     return (
         <>
-        <div className="home2">
-           
-        </div>
         <div className="home">
    
            <img src={design2} className="img2"></img>
@@ -41,7 +38,9 @@ const Home = () => {
                 </div>
             ))} */}
         </div>
-        
+        <div className="home2">
+            hello
+        </div>
         <div className="home3">
             <h1>DELICATELY DESIGNED</h1>
            <img src={design} className="img1"></img>

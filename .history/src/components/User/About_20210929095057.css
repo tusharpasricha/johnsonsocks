@@ -5,37 +5,38 @@ html {
     
 }
 .about{
-    
+    background-color:white;
     display: flex;
     flex-direction: column; 
-    height: 600px;
 }
 .aboutbar{
     font-family: 'Style Script';
-    color: white;
-    background-color: #232526;
+    color: #ea4c89;
+    text-align: justify;
+    background-color: rgb(255, 255, 255);
     font-size: 10rem;
-    width: 40%;
-    height: 500px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    padding-left: 120px;
+    padding-top: 15rem;
+    padding-left: 6rem;
 }
-
-.aboutpara{
-    display: flex;
-    align-items: center;
+/* .abouttable{
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
     text-align: center;
+    font-size: 2rem;
+    background-color:white;
+}
+table, th,td{
     width: 60%;
-    font-size: 3rem;
-    background-image: linear-gradient(to right,#232526,#414345);
-    /* background-color:rgb(197, 125, 125); */
-    height: 500px;
-    /* padding: 30px; */
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white;
-    padding-right: 40px;
+    border: 1px solid black;
+    padding: 2rem;
+} */
+.aboutpara{
+    text-align: center;
+    font-size: 6rem;
+    padding: 13rem;
+    background-color:white;
+    /* padding: 13rem; */
 }
 .parallel{
     width: auto;

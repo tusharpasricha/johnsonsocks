@@ -3,7 +3,6 @@ import db from '../Data/Data';
 import './Home.css';
 import { Link } from "react-router-dom";
 import design from "./design.jpg";
-import design2 from "./design2.jpg";
 
 const Home = () => {
 
@@ -26,12 +25,8 @@ const Home = () => {
 
     return (
         <>
-        <div className="home2">
-           
-        </div>
         <div className="home">
-   
-           <img src={design2} className="img2"></img>
+            hy
             {/* {datas.map((data) => (
                 <div className="cardd">
                     <img src={data.image} alt="socks" />
@@ -41,9 +36,11 @@ const Home = () => {
                 </div>
             ))} */}
         </div>
-        
+        <div className="home2">
+            hello
+        </div>
         <div className="home3">
-            <h1>DELICATELY DESIGNED</h1>
+            <h1>DELICATELY DESIGNED  </h1>
            <img src={design} className="img1"></img>
         </div>
         </>
