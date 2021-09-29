@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/johnsonsocks/static/css/main.bea81f69.chunk.css",
-    "main.js": "/johnsonsocks/static/js/main.f4c6a964.chunk.js",
-    "main.js.map": "/johnsonsocks/static/js/main.f4c6a964.chunk.js.map",
+    "main.css": "/johnsonsocks/static/css/main.6fdacc81.chunk.css",
+    "main.js": "/johnsonsocks/static/js/main.7be7e57c.chunk.js",
+    "main.js.map": "/johnsonsocks/static/js/main.7be7e57c.chunk.js.map",
     "runtime-main.js": "/johnsonsocks/static/js/runtime-main.baf46520.js",
     "runtime-main.js.map": "/johnsonsocks/static/js/runtime-main.baf46520.js.map",
-    "static/js/2.1de55629.chunk.js": "/johnsonsocks/static/js/2.1de55629.chunk.js",
-    "static/js/2.1de55629.chunk.js.map": "/johnsonsocks/static/js/2.1de55629.chunk.js.map",
+    "static/js/2.22eac4a5.chunk.js": "/johnsonsocks/static/js/2.22eac4a5.chunk.js",
+    "static/js/2.22eac4a5.chunk.js.map": "/johnsonsocks/static/js/2.22eac4a5.chunk.js.map",
     "index.html": "/johnsonsocks/index.html",
-    "static/css/main.bea81f69.chunk.css.map": "/johnsonsocks/static/css/main.bea81f69.chunk.css.map",
-    "static/js/2.1de55629.chunk.js.LICENSE.txt": "/johnsonsocks/static/js/2.1de55629.chunk.js.LICENSE.txt"
+    "static/css/main.6fdacc81.chunk.css.map": "/johnsonsocks/static/css/main.6fdacc81.chunk.css.map",
+    "static/js/2.22eac4a5.chunk.js.LICENSE.txt": "/johnsonsocks/static/js/2.22eac4a5.chunk.js.LICENSE.txt",
+    "static/media/design.da14ae16.jpg": "/johnsonsocks/static/media/design.da14ae16.jpg",
+    "static/media/design2.465bd644.jpg": "/johnsonsocks/static/media/design2.465bd644.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.baf46520.js",
-    "static/js/2.1de55629.chunk.js",
-    "static/css/main.bea81f69.chunk.css",
-    "static/js/main.f4c6a964.chunk.js"
+    "static/js/2.22eac4a5.chunk.js",
+    "static/css/main.6fdacc81.chunk.css",
+    "static/js/main.7be7e57c.chunk.js"
   ]
 }
